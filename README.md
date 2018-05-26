@@ -6,3 +6,4 @@
 * [Meeting minutes - Day 2](openSUSE_Heroes/2018-03-04_openSUSE.md)
 ### other:
 * [Presentation: HowTo Git](https://therealbro.github.io/how-to-git)
+* [Presentation: openSUSE Video Team - helpers introduction](https://therealbro.github.io/osc18-helpers)
